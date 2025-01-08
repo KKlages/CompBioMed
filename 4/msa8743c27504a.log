@@ -1,0 +1,179 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2024.11.17)  17 NOV 2024 19:40
+entering extended mode
+**./msa8743c27504a.tex
+(msa8743c27504a.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/texshade\texshade.sty
+Package: texshade 2024/01/10 LaTeX TeXshade (v1.28)
+
+Package `texshade', Version 1.28 of 2024/01/10
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 149.
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+) (C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\structurefile=\read2
+\featurefile=\write3
+\alignfile=\read3
+\sublogofile=\read4
+\exp@rtfile=\write4
+\exp@rt@chimerafile=\write5
+ (C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\symalphahelix=\mathgroup6
+\loopcount=\count190
+\innerloopcount=\count191
+\outerloopcount=\count192
+\seq@count=\count193
+\killseq@count=\count194
+\seq@percent=\count195
+\res@count=\count196
+\seq@pointer=\count197
+\pos@count=\count198
+\res@perline=\count199
+\end@count=\count266
+\cons@count=\count267
+\total@count=\count268
+\temp@count=\count269
+\triple@count=\count270
+\temp@@count=\count271
+\pos@sum=\count272
+\box@width=\skip49
+\name@width=\skip50
+\box@depth=\skip51
+\width@tmp=\skip52
+\box@height=\skip53
+\number@width=\skip54
+\line@stretch=\skip55
+\center@fill=\skip56
+\arrow@width=\skip57
+\arrow@height=\skip58
+\rule@thick=\skip59
+\arrow@thick=\skip60
+\logo@height=\skip61
+\equal@width=\skip62
+\equal@tmp=\skip63
+\equal@height=\skip64
+\temp@@length=\skip65
+\vspace@legend=\skip66
+\hspace@legend=\skip67
+\bar@length=\skip68
+Package color Info: Redefining color LightGray on input line 1725.
+Package color Info: Redefining color LightLightGray on input line 1826.
+Package color Info: Redefining color LightLightLightGray on input line 1928.
+)
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box50
+)
+No file msa8743c27504a.aux.
+\openout1 = `msa8743c27504a.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen139
+\scratchbox=\box51
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen140
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\stube\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:/Users/stube/AppData/Local/Temp/Rtmp2PiIqG/seq874636b179d.fasta:
+! TeX capacity exceeded, sorry [save size=80000].
+\iterate ...hide@number\the \loopcount \endcsname 
+                                                  {no} \expandafter \xdef \c...
+l.25 ...ocal/Temp/Rtmp2PiIqG/seq874636b179d.fasta}
+                                                  
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 32673 strings out of 478907
+ 416150 string characters out of 2851891
+ 797113 words of memory out of 3000000
+ 50587 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,0n,66p,200b,80000s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
